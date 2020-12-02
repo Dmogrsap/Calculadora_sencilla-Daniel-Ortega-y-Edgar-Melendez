@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora_Sencilla</string>
+    <string name="_0">0</string>
+    <string name="punto">.</string>
+    <string name="igual">=</string>
+    <string name="uno">1</string>
+    <string name="dos">2</string>
+    <string name="tres">3</string>
+    <string name="_4">4</string>
+    <string name="suma">+</string>
+    <string name="ceroBoton">0</string>
+</resources>
